@@ -1,0 +1,10 @@
+{
+  "code-runner.executorMap": {
+    "typescript": "npx tsc --noEmit && npx tsx $fullFileName"
+  },
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "github.copilot.enable": {
+    "*": false
+  }
+}
